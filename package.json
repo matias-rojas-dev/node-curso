@@ -1,0 +1,12 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Primera app node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Rojas",
+  "license": "ISC"
+}
